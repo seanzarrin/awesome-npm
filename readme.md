@@ -89,6 +89,7 @@
 - [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
 - [npe](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
 - [engine-deps](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
+- [npm-issues](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
 
 ## Tips
